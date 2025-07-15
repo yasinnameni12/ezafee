@@ -1,0 +1,13 @@
+header {
+  width: 150px;
+  transform: rotate(-180deg);
+  opacity: 0;
+  animation: spinIn 1s ease-out forwards;
+}
+
+@keyframes spinIn {
+  to {
+    transform: rotate(0deg);
+    opacity: 1;
+  }
+}

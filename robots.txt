@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:https://github.com/yasinnameni12/ezafeh-site.git
